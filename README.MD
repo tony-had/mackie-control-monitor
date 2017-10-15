@@ -7,8 +7,8 @@ An application written in JUCE that interprets incoming MIDI messages encoded us
 ### 0.1
 * very ugly - lots of duplication and a lot of code in a single file
 * written as a JUCE and Mackie Control introduction exercise 
-* the message classification (type/subtype/id, etc.) is made up
+* the message classification (type/subtype/id, etc.) is made-up
 * decodes all incoming messages with (where applicable):
- * channel number
- * LCD text
- * button name
+    * channel number
+    * LCD text
+    * button name
