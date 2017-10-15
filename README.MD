@@ -5,6 +5,7 @@ An application written in JUCE that interprets incoming MIDI messages encoded us
 ## Version History
 
 ### 0.1
+* even the github name does not match the app name
 * very ugly - lots of duplication and a lot of code in a single file
 * written as a JUCE and Mackie Control introduction exercise 
 * the message classification (type/subtype/id, etc.) is made-up
